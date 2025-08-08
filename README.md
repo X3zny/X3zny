@@ -6,29 +6,8 @@ Visitors:
 
 
 
-
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1114950232426422342?theme=dark&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=Not%20doing%20much...&t=<RANDOM>" alt="Discord Status" />
-</p>
-
-
 <h2 align="center">X3zny</h2>
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/1114950232426422342?theme=light&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=Not%20doing%20much..." />
 </p>
-
----
-
-<h3>🏅 Badges</h3>
-
-<p>
-  <img src="https://cdn.discordapp.com/badge-icons/198f7299c350e69802be6f5dd4827276.png" alt="3DS Guild Badge" height="32" />
-  <img src="https://dcdn.dstn.to/badges/active_developer.svg" alt="Active Developer" height="32" />
-</p>
-
----
-
-<h3>🎮 Activity</h3>
-
-> Not currently doing anything
 
