@@ -7,6 +7,5 @@ Visitors:
 
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1114950232426422342?theme=dark&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=Not%20doing%20much...&t=<RANDOM>" alt="Discord Status" />
+  <img src="https://lanyard.cnrad.dev/api/1114950232426422342?theme=dark&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=Not%20doing%20much..." alt="X3zny's Discord Status" />
 </p>
-
