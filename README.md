@@ -8,8 +8,9 @@ Visitors:
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/avatars/1114950232426422342/8b91b7c54e0e54211ff7531ab67f9fed.png?size=512" alt="Avatar" width="100" style="border-radius: 50%;" />
+  <img src="https://lanyard.cnrad.dev/api/1114950232426422342?theme=dark&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=Not%20doing%20much...&t=<RANDOM>" alt="Discord Status" />
 </p>
+
 
 <h2 align="center">X3zny</h2>
 <p align="center">
