@@ -1,8 +1,4 @@
-<h2 style="display: flex; align-items: center;">
-  <a href="https://github.com/x3zny" style="display: inline-flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/X3zny/X3zny/main/assets/name.svg" alt="X3zny" style="display: block;" />
-  </a>
-</h2>
+
 
 <table>
   <tr>
