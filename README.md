@@ -23,5 +23,5 @@
 <br><br>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1391842533986013346/1403785938496262225/ezgif.com-optimize.gif?ex=6898d108&is=68977f88&hm=0bf4fcfdd8ef3c23e0dcc134156e7f23c1dbb9975a4ca1d8668ab77d2e14e226&" width="300" alt="Showcase GIF" />
+  <img src="assets/Gif.gif" width="300" alt="Showcase GIF" />
 </p>
