@@ -19,7 +19,7 @@
       <br><br>
       <!-- GIF list -->
       <ul align="left">
-        <li><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Frias-gremory-high-school-dxd-gif-rias-gremory-high-school-dxd-walking-discover-share-gifs--914019686845844894%2F&psig=AOvVaw3gj9KrytG7_K-m8wSQobuT&ust=1754844419798000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj8p7-Dl_6OAxVoUlUIHbThMD0QjRx6BAgAEBk" width="250"></li>
+        <li><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Frias-gremory-high-school-dxd-gif-rias-gremory-high-school-dxd-walking-discover-share-gifs--914019686845844894%2F&psig=AOvVaw3gj9KrytG7_K-m8wSQobuT&ust=1754844419798000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj8p7-Dl_6OAxVoUlUIHbThMD0QjRx6BAgAEBk](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhighschool-dxd-gifs&psig=AOvVaw2_YcMcuLfVXps3zseA06B4&ust=1754844424668000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwihxuiFl_6OAxWaIhAIHc-OH1cQjRx6BAgAEBk)" width="250"></li>
         <li><img src="GIF_URL_2" width="250"></li>
         <li><img src="GIF_URL_3" width="250"></li>
         <li><img src="GIF_URL_4" width="250"></li>
