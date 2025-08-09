@@ -19,27 +19,71 @@
   </tr>
 </table>
 
-<table style="width: 100%; table-layout: fixed; margin-top: 24px; border-collapse: separate; border-spacing: 0 12px;">
+<<table style="width: 100%; margin-top: 24px; border-collapse: separate; border-spacing: 0 12px;">
   <tr>
-    <td align="left" width="45%" valign="top" style="
-      background: #2f3136; 
-      color: #dcddde; 
-      font-family: 'Consolas', 'Courier New', monospace; 
-      padding: 16px 20px; 
-      border-radius: 8px; 
-      white-space: pre-wrap; 
-      user-select: text; 
-      font-size: 15px; 
-      line-height: 1.5;
-      box-sizing: border-box;
-      word-break: break-word;
-      ">
-<span style="color:#f78c6c;">{</span><br>
-&nbsp;&nbsp;<span style="color:#c792ea;">"age"</span><span style="color:#89ddff;">:</span> <span style="color:#f78c6c;">25</span><span style="color:#f78c6c;">,</span><br>
-&nbsp;&nbsp;<span style="color:#c792ea;">"hobby"</span><span style="color:#89ddff;">:</span> <span style="color:#ecc48d;">"gaming"</span><span style="color:#f78c6c;">,</span><br>
-&nbsp;&nbsp;<span style="color:#c792ea;">"interest"</span><span style="color:#89ddff;">:</span> <span style="color:#ecc48d;">"coding"</span><span style="color:#f78c6c;">,</span><br>
-&nbsp;&nbsp;<span style="color:#c792ea;">"language"</span><span style="color:#89ddff;">:</span> <span style="color:#ecc48d;">"JavaScript"</span><br>
-<span style="color:#f78c6c;">}</span>
+    <td align="left" width="45%" valign="top" style="padding-right: 16px;">
+
+      <!-- asm code block -->
+      <pre style="
+        background-color: #1e1e1e;
+        color: #d4d4d4;
+        font-family: Consolas, 'Courier New', monospace;
+        font-size: 14px;
+        line-height: 1.4;
+        padding: 12px 16px;
+        border-radius: 6px;
+        overflow-x: auto;
+        user-select: text;
+        margin: 0 0 12px 0;
+        box-sizing: border-box;
+        ">
+<span style="color:#569CD6;">section</span> <span style="color:#4EC9B0;">.data</span>
+    msg db <span style="color:#CE9178;">'a5traa'</span>, <span style="color:#569CD6;">0</span>
+
+<span style="color:#569CD6;">section</span> <span style="color:#4EC9B0;">.text</span>
+    <span style="color:#569CD6;">global</span> _start
+
+_start:
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, msg
+    mov edx, 6
+    int 0x80
+
+    mov eax, 1
+    xor ebx, ebx
+    int 0x80
+      </pre>
+
+      <!-- lua-like info block -->
+      <pre style="
+        background-color: #1e1e1e;
+        color: #d4d4d4;
+        font-family: Consolas, 'Courier New', monospace;
+        font-size: 14px;
+        line-height: 1.4;
+        padding: 12px 16px;
+        border-radius: 6px;
+        overflow-x: auto;
+        user-select: text;
+        margin: 0;
+        box-sizing: border-box;
+        ">
+       OS  :  macOS, debian
+Languages  :  C, Cpp, ASM, Py, Java
+   Editor  :  vim
+    Motto  :  Seek strength. The rest will follow.
+      </pre>
+
+    </td>
+    <td align="center" width="55%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=x3zny&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+      <br><br>
+      <img src="assets/Gif.gif" width="300" alt="Showcase GIF" style="display:block; margin: 0 auto;" />
+    </td>
+  </tr>
+</table>
+
     </td>
     <td align="center" width="55%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=x3zny&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
