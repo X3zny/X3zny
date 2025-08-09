@@ -22,7 +22,6 @@
 <<table style="width: 100%; margin-top: 24px; border-collapse: separate; border-spacing: 0 12px;">
   <tr>
     <td align="left" width="45%" valign="top" style="padding-right: 16px;">
-
       <!-- asm code block -->
       <pre style="
         background-color: #1e1e1e;
@@ -49,12 +48,10 @@ _start:
     mov ecx, msg
     mov edx, 6
     int 0x80
-
     mov eax, 1
     xor ebx, ebx
     int 0x80
       </pre>
-
       <!-- lua-like info block -->
       <pre style="
         background-color: #1e1e1e;
@@ -74,7 +71,6 @@ Languages  :  C, Cpp, ASM, Py, Java
    Editor  :  vim
     Motto  :  Seek strength. The rest will follow.
       </pre>
-
     </td>
     <td align="center" width="55%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=x3zny&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
