@@ -19,17 +19,29 @@
   </tr>
 </table>
 
-<table>
+<table style="width: 100%; table-layout: fixed; margin-top: 24px; border-collapse: separate; border-spacing: 0 12px;">
   <tr>
-    <td align="left" width="50%" valign="top" style="background:#2f3136; color:#dcddde; font-family: Consolas, 'Courier New', monospace; padding: 16px; border-radius: 6px; white-space: pre; user-select: text; line-height: 1.4; font-size: 14px; box-sizing: border-box;">
-<pre>{
-  "age": 25,
-  "hobby": "gaming",
-  "interest": "coding",
-  "language": "JavaScript"
-}</pre>
+    <td align="left" width="45%" valign="top" style="
+      background: #2f3136; 
+      color: #dcddde; 
+      font-family: 'Consolas', 'Courier New', monospace; 
+      padding: 16px 20px; 
+      border-radius: 8px; 
+      white-space: pre-wrap; 
+      user-select: text; 
+      font-size: 15px; 
+      line-height: 1.5;
+      box-sizing: border-box;
+      word-break: break-word;
+      ">
+<span style="color:#f78c6c;">{</span><br>
+&nbsp;&nbsp;<span style="color:#c792ea;">"age"</span><span style="color:#89ddff;">:</span> <span style="color:#f78c6c;">25</span><span style="color:#f78c6c;">,</span><br>
+&nbsp;&nbsp;<span style="color:#c792ea;">"hobby"</span><span style="color:#89ddff;">:</span> <span style="color:#ecc48d;">"gaming"</span><span style="color:#f78c6c;">,</span><br>
+&nbsp;&nbsp;<span style="color:#c792ea;">"interest"</span><span style="color:#89ddff;">:</span> <span style="color:#ecc48d;">"coding"</span><span style="color:#f78c6c;">,</span><br>
+&nbsp;&nbsp;<span style="color:#c792ea;">"language"</span><span style="color:#89ddff;">:</span> <span style="color:#ecc48d;">"JavaScript"</span><br>
+<span style="color:#f78c6c;">}</span>
     </td>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="55%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=x3zny&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
       <br><br>
       <img src="assets/Gif.gif" width="300" alt="Showcase GIF" style="display:block; margin: 0 auto;" />
