@@ -14,7 +14,7 @@
   </defs>
 
   <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"
-        font-weight="700" font-size="20" fill="url(#grad)">
+        font-weight="700" font-size="20" fill="url(#grad)" textLength="160" lengthAdjust="spacingAndGlyphs">
     Hey, I'm X3zny!
   </text>
 </svg>
