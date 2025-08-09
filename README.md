@@ -17,14 +17,7 @@
     <td align="center" width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=x3zny&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
       <br><br>
-      <!-- GIF list -->
-      <ul align="left">
-        <li><img src="https://cdn.discordapp.com/attachments/1391842533986013346/1403782654255693854/whycantthisfuckingbemegoddamnit.gif?ex=6898cdf9&is=68977c79&hm=052a38b8a055f51caf06764b0ae843614527f7306ef94fedab6ad930a1ca0d51&" width="250"></li>
-        <li><img src="GIF_URL_2" width="250"></li>
-        <li><img src="GIF_URL_3" width="250"></li>
-        <li><img src="GIF_URL_4" width="250"></li>
-        <li><img src="GIF_URL_5" width="250"></li>
-      </ul>
+      <img src="https://cdn.discordapp.com/attachments/1391842533986013346/1403782654255693854/whycantthisfuckingbemegoddamnit.gif?ex=6898cdf9&is=68977c79&hm=052a38b8a055f51caf06764b0ae843614527f7306ef94fedab6ad930a1ca0d51&" width="300" alt="Rotating GIF Showcase" />
     </td>
   </tr>
 </table>
