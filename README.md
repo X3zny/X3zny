@@ -18,3 +18,16 @@
     </td>
   </tr>
 </table>
+
+<table style="width: 100%;">
+  <tr>
+    <td align="center" valign="middle" width="50%" style="height: 300px;">
+      <img src="assets/Sakura.gif" alt="Sakura GIF" style="max-width: 100%; max-height: 100%; display: block; margin: auto;" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=x3zny&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+      <br><br>
+      <img src="assets/Gif.gif" width="300" alt="Showcase GIF" style="display:block; margin: 0 auto;" />
+    </td>
+  </tr>
+</table>
