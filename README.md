@@ -1,6 +1,6 @@
-<h2>
-  <a href="https://raw.githubusercontent.com/x3zny/x3zny/assets/name.svg">
-    <img src="https://raw.githubusercontent.com/x3zny/x3zny/assets/name.svg" align="left" />
+<h2 style="display: flex; align-items: center;">
+  <a href="https://github.com/x3zny" style="display: inline-flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/X3zny/X3zny/main/assets/name.svg" alt="X3zny" style="display: block;" />
   </a>
 </h2>
 
