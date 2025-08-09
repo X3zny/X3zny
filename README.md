@@ -13,7 +13,7 @@
       <img src="https://lanyard.cnrad.dev/api/1114950232426422342?theme=dark&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=Not%20doing%20much..." alt="X3zny's Discord Status" />
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=x3zny&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=X3zny&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
       <br><br>
       <img src="assets/Gif.gif" width="300" alt="Showcase GIF" style="display:block; margin: 0 auto;" />
     </td>
