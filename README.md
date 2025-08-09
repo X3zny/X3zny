@@ -1,8 +1,7 @@
 <h2>
   <a href="https://github.com/x3zny">
-    <img src="https://raw.githubusercontent.com/x3zny/x3zny/master/name.svg" align="left" />
+    <img src="https://raw.githubusercontent.com/x3zny/x3zny/assets/name.svg" align="left" />
   </a>
-  👑
 </h2>
 
 <table>
