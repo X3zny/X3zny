@@ -1,5 +1,5 @@
 <h2>
-  <a href="https://github.com/x3zny">
+  <a href="https://raw.githubusercontent.com/x3zny/x3zny/assets/name.svg">
     <img src="https://raw.githubusercontent.com/x3zny/x3zny/assets/name.svg" align="left" />
   </a>
 </h2>
