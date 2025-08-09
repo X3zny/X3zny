@@ -16,8 +16,12 @@
     <!-- Right side -->
     <td align="center" width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=x3zny&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-      <br><br>
-      <img src="https://cdn.discordapp.com/attachments/1391842533986013346/1403782654255693854/whycantthisfuckingbemegoddamnit.gif?ex=6898cdf9&is=68977c79&hm=052a38b8a055f51caf06764b0ae843614527f7306ef94fedab6ad930a1ca0d51&" width="300" alt="Rotating GIF Showcase" />
     </td>
   </tr>
 </table>
+
+<br><br>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1391842533986013346/1403785938496262225/ezgif.com-optimize.gif?ex=6898d108&is=68977f88&hm=0bf4fcfdd8ef3c23e0dcc134156e7f23c1dbb9975a4ca1d8668ab77d2e14e226&" width="300" alt="Showcase GIF" />
+</p>
