@@ -21,10 +21,13 @@
 
 <table>
   <tr>
-    <td align="center" width="50%" valign="top">
-      <strong>Visitors</strong><br>
-      <img src="https://count.getloli.com/@:X3zny?name=%3AX3zny&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitors" /><br><br>
-      <img src="https://lanyard.cnrad.dev/api/1114950232426422342?theme=dark&animated=true&hideDiscrim=true&borderRadius=25px&idleMessage=Not%20doing%20much..." alt="X3zny's Discord Status" />
+    <td align="left" width="50%" valign="top" style="background:#2f3136; color:#dcddde; font-family: Consolas, 'Courier New', monospace; padding: 16px; border-radius: 6px; white-space: pre; user-select: text; line-height: 1.4; font-size: 14px; box-sizing: border-box;">
+<pre>{
+  "age": 25,
+  "hobby": "gaming",
+  "interest": "coding",
+  "language": "JavaScript"
+}</pre>
     </td>
     <td align="center" width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=x3zny&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
