@@ -1,36 +1,20 @@
-<svg fill="none" viewBox="0 0 250 32" width="250" height="32" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;">
-      <style>
-        @keyframes textGradientAnimation {
-          0% {
-            background-position: 350% 0;
-          }
-          to {
-            background-position: -350% 0;
-          }
-        }
+<svg width="250" height="32" viewBox="0 0 250 32" xmlns="http://www.w3.org/2000/svg" >
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7B2FF7">
+        <animate attributeName="offset" values="0;1" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#F107A3">
+        <animate attributeName="offset" values="0.5;1.5" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#FF47B0">
+        <animate attributeName="offset" values="1;2" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
 
-        .home_title {
-          font-size: 20px;
-          font-weight: 700;
-          display: inline-block;
-          color: transparent;
-          background-image: linear-gradient(-220deg, #fc5c7d, #6a82fb, #05dfd7);
-          -webkit-background-clip: text;
-          background-clip: text;
-          background-size: 200% 120%;
-          animation: textGradientAnimation 10s linear infinite;
-        }
-
-        h2 {
-          margin: 0;
-          font-size: 20px;
-          font-weight: bold;
-        }
-      </style>
-
-      <h2 class="home_title" data-tauri-drag-region="true">Hey, I'm X3zny!</h2>
-    </div>
-  </foreignObject>
+  <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"
+        font-weight="700" font-size="20" fill="url(#grad)">
+    Hey, I'm X3zny!  
+  </text>
 </svg>
