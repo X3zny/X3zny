@@ -21,11 +21,11 @@
 
 <table style="width: 100%; margin-top: 24px; border-collapse: separate; border-spacing: 0 12px;">
   <tr>
-    <td align="left" width="45%" valign="top" style="padding-right: 16px;">
+    <td align="left" width="50%" valign="top" style="padding-right: 16px;">
       <!-- asm code block -->
       <pre style="
         background-color: #1e1e1e;
-        color: #d4d4d4;
+        color: #fff;
         font-family: Consolas, 'Courier New', monospace;
         font-size: 14px;
         line-height: 1.4;
@@ -36,11 +36,11 @@
         margin: 0 0 12px 0;
         box-sizing: border-box;
         ">
-<span style="color:#569CD6;">section</span> <span style="color:#4EC9B0;">.data</span>
+<section style="color:#569CD6;">section</section> <span style="color:#4EC9B0;">.data</span>
     msg db <span style="color:#CE9178;">'a5traa'</span>, <span style="color:#569CD6;">0</span>
 
-<span style="color:#569CD6;">section</span> <span style="color:#4EC9B0;">.text</span>
-    <span style="color:#569CD6;">global</span> _start
+<section style="color:#569CD6;">section</section> <span style="color:#4EC9B0;">.text</span>
+    <section style="color:#569CD6;">global</section> _start
 
 _start:
     mov eax, 4
@@ -55,7 +55,7 @@ _start:
       <!-- lua-like info block -->
       <pre style="
         background-color: #1e1e1e;
-        color: #d4d4d4;
+        color: #fff;
         font-family: Consolas, 'Courier New', monospace;
         font-size: 14px;
         line-height: 1.4;
@@ -72,7 +72,7 @@ Languages  :  C, Cpp, ASM, Py, Java
     Motto  :  Seek strength. The rest will follow.
       </pre>
     </td>
-    <td align="center" width="55%" valign="top">
+    <td align="center" width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=x3zny&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
       <br><br>
       <img src="assets/Gif.gif" width="300" alt="Showcase GIF" style="display:block; margin: 0 auto;" />
