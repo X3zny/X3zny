@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-<<table style="width: 100%; margin-top: 24px; border-collapse: separate; border-spacing: 0 12px;">
+<table style="width: 100%; margin-top: 24px; border-collapse: separate; border-spacing: 0 12px;">
   <tr>
     <td align="left" width="45%" valign="top" style="padding-right: 16px;">
       <!-- asm code block -->
@@ -71,15 +71,6 @@ Languages  :  C, Cpp, ASM, Py, Java
    Editor  :  vim
     Motto  :  Seek strength. The rest will follow.
       </pre>
-    </td>
-    <td align="center" width="55%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=x3zny&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-      <br><br>
-      <img src="assets/Gif.gif" width="300" alt="Showcase GIF" style="display:block; margin: 0 auto;" />
-    </td>
-  </tr>
-</table>
-
     </td>
     <td align="center" width="55%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=x3zny&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
