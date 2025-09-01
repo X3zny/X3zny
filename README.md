@@ -14,7 +14,7 @@
     <td align="center" width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=x3zny&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
       <br><br>
-      <img src="assets/Gif.gif" width="300" alt="Showcase GIF" style="display:block; margin: 0 auto;" />
+      <img src="assets/Gifa.gif" width="300" alt="Showcase GIF" style="display:block; margin: 0 auto;" />
     </td>
   </tr>
 </table>
